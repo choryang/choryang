@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=choryang)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Okhee%20Lee&fontSize=90&animation=twinkling)
@@ -25,6 +26,13 @@ Here are some ideas to get you started:
 
 
 <h3 align="center"> ☀️ Tech Stack ☀️ </h3>
+<br/>
+
+<p align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choryang&hide=ruby)](https://github.com/choryang)
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=choryang)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;&nbsp;
@@ -58,6 +66,4 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=choryang)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choryang&layout=compact)](https://github.com/choryang)
 ![footer](https://capsule-render.vercel.app/api?section=footer&color=auto)
