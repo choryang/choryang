@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Okhee%20Lee&fontSize=90&animation=twinkling)
 
 <h3 align="center"> Hi, there! </h3>
-<h3 align="center"> I'm Okhee Lee.🙋</h3>
-<h3 align="center"> I want to be a front-end developer.🌱</h3>
-<h3 align="center"> I’m currently interested in React, Redux and Firebase.</h3>
+<h3 align="center"> I'm Okhee Lee,🙋</h3>
+<h3 align="center"> And I want to be a front-end developer.🌱</h3>
+<h3 align="center"> These days, I'm interested in React, Redux and Firebase.</h3>
 <br/>
 <br/>
 
